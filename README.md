@@ -2,11 +2,11 @@
 <h1 align="right">Hi 👋, I'm Konstantinos "purplebeam" Papageorgiou</h1>
 <h3 align="center">Junior Developer in the making. Made in Greece🇬🇷</h3>
 
-- 🌱 I’m currently learning **HTML5 - CSS - JavaScript**
+<h4> 🌱 I’m currently learning **HTML5 - CSS - JavaScript** </h4>
 
-- 📫 How to reach me **itsthe_purplebeam@proton.me**
+<h4> 📫 How to reach me **itsthe_purplebeam@proton.me**</h4>
 
-- ⚡ Fun fact **I have a bachelor of science in Automotive Engineering.**
+<h4>⚡ Fun fact **I have a bachelor of science in Automotive Engineering.**</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
