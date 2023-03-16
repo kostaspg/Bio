@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/konpapageorgiou" target="blank"><img align="center" src="https://media.tenor.com/KOki-OrS24AAAAAC/linkedin.gif" alt="konpapageorgiou" height="100" width="200" /></a>
+<a href="https://linkedin.com/in/konpapageorgiou" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="konpapageorgiou" height="100" width="200" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
