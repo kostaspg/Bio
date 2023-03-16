@@ -1,4 +1,4 @@
-<img align="center" src = "https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" alt="mainicon" height = 300 width= "300" />
+<img align="center" src = "https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" alt="mainicon" height = 600 width= "600" />
 
 
 <h1 align="center">Hi 👋, I'm Konstantinos "purplebeam" Papageorgiou</h1>
