@@ -1,6 +1,6 @@
 <img align="left" src = "https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" alt="mainicon" height = 400 width= "400" />
 <h1 align="right">Hi 👋, I'm Konstantinos "purplebeam" Papageorgiou</h1>
-<h3 align="center">Junior Developer in the making. Made in Greece🇬🇷</h3>
+<h3 align="right">Junior Developer in the making. Made in Greece🇬🇷</h3>
 
 - 🌱 I’m currently learning **HTML5 - CSS - JavaScript**
 
@@ -8,8 +8,8 @@
 
 - ⚡ Fun fact **I have a bachelor of science in Automotive Engineering.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://linkedin.com/in/konpapageorgiou" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="konpapageorgiou" height="100" width="150" /></a>
 </p>
 
