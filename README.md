@@ -1,12 +1,12 @@
-<img align="left" src = "https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" alt="mainicon" height="300" width= "300" />
+<img align="center" src = "https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" alt="mainicon" height="300" width= "300" />
 <h1 align="right">Hi 👋, I'm Konstantinos "purplebeam" Papageorgiou</h1>
 <h3 align="center">Junior Developer in the making. Made in Greece🇬🇷</h3>
 
-<h4> 🌱 I’m currently learning **HTML5 - CSS - JavaScript** </h4>
+<h5> 🌱 I’m currently learning **HTML5 - CSS - JavaScript** </h5>
 
-<h4> 📫 How to reach me **itsthe_purplebeam@proton.me**</h4>
+<h5> 📫 How to reach me **itsthe_purplebeam@proton.me**</h5>
 
-<h4>⚡ Fun fact **I have a bachelor of science in Automotive Engineering.**</h4>
+<h5>⚡ Fun fact **I have a bachelor of science in Automotive Engineering.**</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
