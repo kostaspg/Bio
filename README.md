@@ -1,4 +1,5 @@
 <img align="left" src = "https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" alt="mainicon" height="300" width= "300" />
+<br/><br/>
 <h2 align="left">Hi 👋, I'm Konstantinos "purplebeam" Papageorgiou</h2>
 <h3 align="left">Junior Developer in the making. Made in Greece🇬🇷</h3>
 
