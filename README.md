@@ -11,7 +11,7 @@
 <br/><br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://stackoverflow.com/users/purplebeam" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="purplebeam" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/20866916/purplebeam" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="purplebeam" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/konpapageorgiou" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="konpapageorgiou" height="30" width="40" /></a>
 </p>
 <br/>
