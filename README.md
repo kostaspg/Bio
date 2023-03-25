@@ -1,7 +1,7 @@
-<img align="center" src = "https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" alt="mainicon" height="250" width= "250" />
+<img align="left" src = "https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" alt="mainicon" height="250" width= "250" />
 
-<h2 align="center">Hi 👋, I'm Konstantinos "purplebeam" Papageorgiou</h2>
-<h3 align="center">Junior Developer in the making. Made in Greece🇬🇷</h3>
+<h2 align="left">Hi 👋, I'm Konstantinos "purplebeam" Papageorgiou</h2>
+<h3 align="left">Junior Developer in the making. Made in Greece🇬🇷</h3>
 
 🌱 I’m currently learning **HTML5 - CSS - JavaScript**
 
