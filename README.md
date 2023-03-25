@@ -1,14 +1,14 @@
-<img align="left" src = "https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" alt="mainicon" height="250" width= "250" />
-<br/>
 <h2 align="left">Hi 👋, I'm Konstantinos "purplebeam" Papageorgiou</h2>
 <h3 align="left">Junior Developer in the making. Made in Greece🇬🇷</h3>
+
+<img align="left" src = "https://media.tenor.com/XLnJxScKc3EAAAAC/car-animation.gif" alt="mainicon" height="150" width= "250" />
 
 🌱 I’m currently learning **HTML5 - CSS - JavaScript**
 
 📫 How to reach me **itsthe_purplebeam@proton.me**
 
 ⚡ Fun fact **I have a bachelor of science in Automotive Engineering.**
-<br/>
+<br/><br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://stackoverflow.com/users/purplebeam" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="purplebeam" height="30" width="40" /></a>
