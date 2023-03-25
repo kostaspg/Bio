@@ -9,9 +9,10 @@
 
 ⚡ Fun fact **I have a bachelor of science in Automotive Engineering.**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/konpapageorgiou" target="blank"><img align="left" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="konpapageorgiou" height="93" width="130" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://stackoverflow.com/users/purplebeam" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="purplebeam" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/konpapageorgiou" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="konpapageorgiou" height="30" width="40" /></a>
 </p>
 <br/><br/><br/><br/>
 <h3 align="left">Languages and Tools:</h3>
