@@ -10,7 +10,7 @@
 
 <div>
 <p align = "center">
-<a href = "https://www.linkedin.com/in/konpapageorgiou" target="_blank"><img width = "350px" src="https://img.shields.io/badge/konpapageorgiou-LinkedIn-blue"></a>
+<a target="_blank" href = "https://www.linkedin.com/in/konpapageorgiou"> <img width = "350px" src="https://img.shields.io/badge/konpapageorgiou-LinkedIn-blue"></a>
 <br>
 <img width = "350px" src="https://img.shields.io/badge/purplebeam%233556-Discord-blueviolet">
 </p>
