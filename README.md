@@ -12,7 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/konpapageorgiou" target="blank"><img align="center" src="https://img.shields.io/badge/konpapageorgiou-LinkedIn-blue" alt="konpapageorgiou" /></a>
+<a href="https://linkedin.com/in/konpapageorgiou" target="blank">
+<img align="center" src="https://img.shields.io/badge/konpapageorgiou-LinkedIn-blue" alt="konpapageorgiou" /></a>
 </p>
 
 <h2 align="center"> ⚙️Languages & Tools:</h2>
