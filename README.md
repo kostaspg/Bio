@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Konstantinos "purplebeam" Papageorgiou</h1>
 <h3 align="center">Junior Developer in the making. Made in Greece🇬🇷</h3>
 
-- 🌱 I’m currently learning **HTML5 - CSS - JavaScript**
+
 
 - 📫 How to reach me **itsthe_purplebeam@proton.me**
 
