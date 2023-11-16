@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Konstantinos "purplebeam" Papageorgiou</h1>
-<h3 align="center">Junior Developer in the making. Made in Greece🇬🇷</h3>
+<h3 align="center">Junior Java Developer Made in Greece🇬🇷</h3>
 
 
 
