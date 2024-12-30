@@ -2,7 +2,7 @@
 
 - 🎓 **Bachelor’s in Automotive Engineering**, currently transitioning into **Front-End Development** and **UI/UX Design**.
 - ⚡ **Passionate about**: Building responsive, user-centric web applications and creating seamless digital experiences.
-- 📫 **How to reach me**: itsthe_purplebeam@proton.me
+- 📫 **How to reach me**: konvpapageorgiou@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
