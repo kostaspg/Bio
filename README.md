@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kostas Papageorgiou</h1>
+<h1 align="center">Greetings User, I'm Konstantinos Papageorgiou</h1>
 
 - 🎓 **Bachelor’s in Automotive Engineering**, currently transitioning into **Front-End Development** and **UI/UX Design**.
 - ⚡ **Passionate about**: Building responsive, user-centric web applications and creating seamless digital experiences.
